@@ -17,6 +17,7 @@ Me apasiona conectar las finanzas tradicionales con la tecnología. Actualmente 
 
 ### 📂 Proyecto Destacado: Analizador de Estrés de Mercado
 He desarrollado una suite en **Python** que ejecuta **10,000 escenarios de mercado** para predecir colapsos financieros utilizando la API de Yahoo Finance.
+Analizador de Riesgo Monte Carlo](https://github.com/vm1321920-jpg/Monte-Carlo-Risk-Simulator
 
 ---
 📫 **Contacto:** https://www.linkedin.com/in/vanessat-finance | vm1321920@gmail.com
